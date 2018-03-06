@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="css/estilos.css">
 	<link rel="stylesheet" type="text/css" href="/css/app.css">
 </head>
-<body style="background-image: url(img/img4.jpg); background-repeat: no-repeat; background-position: center center; background-attachment: fixed; background-size: cover;" lang="es">
+<body style="background-image: url(img/img1.jpg); background-repeat: no-repeat; background-position: center center; background-attachment: fixed; background-size: cover;" lang="es">
 	@include('inc.navbar')
 	
 	<div class="container">
