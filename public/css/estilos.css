@@ -1,0 +1,81 @@
+header {
+	background: #E6E6E6;
+	color:#6E6E6E;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-image: url(img/logo-peec.png);
+	
+}
+
+#header {
+	background-position: left;
+	background-repeat: no-repeat;
+	background-image: url(img/uaslplogo.png);
+	height: 50px;
+	width: 50px;
+}
+
+.main {
+	background: #f2f2f2;
+}
+
+.color1 {
+	background: #34495e;
+	color: #fff;
+}
+
+.textos{
+		border-radius: 4px 4px 4px 4px;
+		-moz-border-radius: 4px 4px 4px 4px;
+		-webkit-border-radius: 4px 4px 4px 4px;
+		-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+		-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+		box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+		background-color: #f7f6f4;
+		color: black;
+		font-size: 15px;
+}
+
+.bordes{
+		border-radius: 4px 4px 4px 4px;
+		-moz-border-radius: 4px 4px 4px 4px;
+		-webkit-border-radius: 4px 4px 4px 4px;
+		-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+		-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+		box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+.subTitulos{
+	font-weight: 700;
+}
+
+aside {
+	background: #FF4000;
+	color: #fff;
+}
+
+footer {
+		margin-top:30px;
+		padding: 20px; 
+		background: #A4A4A4;
+		color:#ffffff;
+}
+
+body {
+	
+	background-image: url(img/img1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center; 
+	padding-top: 50px;
+}
+
+nav.navbar ul.nav li a{
+    color: #ffffff;
+    font-size: medium;
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+}
