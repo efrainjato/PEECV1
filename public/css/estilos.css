@@ -81,6 +81,6 @@ nav.navbar ul.nav li a{
 }
 
 .jumbotron{
-	background-image: url(img/img2.png);
-	color: white; 
+	color: white;
+	background-color:white;  
 }
